@@ -5,7 +5,7 @@ title: Understanding the evaluation of credit within monetary systems
 
 # Understanding the evaluation of credit within monetary systems
 
-This was originally an essay for the (iFlas MOOC)[http://iflas.blogspot.co.nz/2014/12/money-and-society-mooc.html] 
+This was originally an essay for the [iFlas MOOC](http://iflas.blogspot.co.nz/2014/12/money-and-society-mooc.html) in response to the question - something like (but not exactly) "What as an aspect of currency that you felt was not analyzed enough in this course?"
 
 
 An important area that I think was insufficiently analysed in these lessons is the role that <strong>Evaluation Of Creditworthiness</strong> (EOC) plays in money like systems. How and who carries out this evaluation are important questions to ask when understanding credit money systems.
